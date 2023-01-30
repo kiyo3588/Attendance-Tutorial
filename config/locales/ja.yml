@@ -206,7 +206,7 @@ ja:
       short: "%m/%d %H:%M"
       time: "%H：%M"
     pm: 午後
-    
+
 ja:
   activerecord:
     models:
