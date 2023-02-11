@@ -90,6 +90,10 @@ GEM
       net-smtp
     method_source (1.0.0)
     mini_mime (1.1.2)
+<<<<<<< HEAD
+=======
+    mini_portile2 (2.8.1)
+>>>>>>> e97566869094e0d2e40d95160ca59e91c0fc0b35
     minitest (5.17.0)
     net-imap (0.3.4)
       date
